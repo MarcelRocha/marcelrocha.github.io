@@ -37,5 +37,5 @@
 ### Projetos menores
 
 - [Modelagem para ensaio oxidativo de ligas ferrítcas recobertas](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Small%20projects/Modeling%20Oxidation%20Knectics.ipynb)
-- [Web Scraping: Ranque de animes no site MyAnimeList]()
+- [Web Scraping: Ranque de animes no site MyAnimeList](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Small%20projects/scraping_MAL/Anime_Scraper_Mal.ipynb)
 
